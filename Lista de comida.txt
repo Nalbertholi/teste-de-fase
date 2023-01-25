@@ -8,3 +8,6 @@ tang
 macarrão 
 óleo 
 corda
+biscoito 
+bolacha
+pao 
